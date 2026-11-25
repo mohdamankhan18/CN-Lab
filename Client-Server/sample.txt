@@ -1,0 +1,12 @@
+
+Welcome to Computer Networks Lab.
+
+This is a sample text file used for TCP/IP socket programming.
+
+The client sends the filename to the server.
+The server checks whether the requested file exists.
+If the file is present, the server sends its contents to the client.
+
+TCP stands for Transmission Control Protocol.
+
+Thank you!
